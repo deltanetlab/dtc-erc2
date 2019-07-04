@@ -1,8 +1,0 @@
-# deploy.js
-
-/build/
-
-*.brk
-.vscode/*
-
-**/node_modules/**
